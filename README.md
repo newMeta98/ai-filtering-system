@@ -62,20 +62,20 @@ python helpers.py
 
 ## 📂 Project Structure
 
-├──  app.py                          # Main application
+├──  app.py 
 ├──  utils
-│    └── 🤖 api_client.py           # AI integration  
-├──  📚 knowledge/                   # Rule repository
-│    └── 📄 knowledge.txt   
-├──  📊 excel/                      # Excel manipulation
-│    ├── helpers.py                 # Excel utilities
+│    └── 🤖 api_client.py 
+├──  📚 knowledge/               
+│    └── 📄 knowledge.txt 
+├──  📊 excel/                
+│    ├── helpers.py    
 │    ├── 📄 data.json
-│    ├── 📝 allproductsdata.xlsx        
-│    └── 📝 allowed_products.xlsx   
-├── 🖥️ templates/                   # Web UI
+│    ├── 📝 allproductsdata.xlsx   
+│    └── 📝 allowed_products.xlsx 
+├── 🖥️ templates/ 
 │    └── index.html
-├── ⚙️ .env                         # Configuration template
-└── 📄 data.json                    # Persistent storage
+├── ⚙️ .env 
+└── 📄 data.json 
 
 
 ##📌 Notes
